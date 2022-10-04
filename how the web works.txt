@@ -1,0 +1,18 @@
+what is HTTP?
+- is a protocol to communicate with servers.
+what is URL?
+- especifies location on a computer network.
+what is DNS?
+-translate domain in IP addresses.
+what is a query string?
+-arguments passed with a request .
+what are two HTTP verbs and how are they different?
+-get retrie.ves the resource and post updates a resource.
+what is an HTTP request?
+-retrieve content from a server.
+what is and HTTP response?
+-server's answer to request.
+what is an HTTP header?
+info within a request.
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+-you get a protocol, you get hostname, a port is assing, the hostname finds the requested resource to get a response.
